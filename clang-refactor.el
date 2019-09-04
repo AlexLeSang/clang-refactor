@@ -3,7 +3,7 @@
 ;; Copyright (c) 2019 Valeriy Savchenko (GNU/GPL Licence)
 
 ;; Authors: Oleksandr Halushko <alexlesang@gmail.com>
-;; URL: 
+;; URL: https://github.com/AlexLeSang/clang-refactor
 ;; Version: 0.0.1
 ;; Keywords: tools, c, c++, clang-refactor
 
